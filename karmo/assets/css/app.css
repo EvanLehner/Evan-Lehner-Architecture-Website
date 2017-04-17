@@ -1,0 +1,34 @@
+.table-cell img {
+    width:200%;
+}
+
+h1{
+}
+
+.mainTitle {
+    
+    padding-top: 287.5px;
+    padding-left: 310px;
+    letter-spacing: 5px;
+}
+
+h2{
+    width: 200%;
+}
+
+
+.bridge {
+    padding-left: 41.5%;
+    padding-top: 23.5%;
+    color: white;
+    display: table;
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://scontent.fagc2-1.fna.fbcdn.net/v/t35.0-12/17820013_632249200294141_1688959151_o.jpg?oh=933ea577e31b328b91841eabd7616010&oe=58E7C5E4);
+		background-attachment: fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
